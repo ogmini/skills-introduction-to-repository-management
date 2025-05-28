@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ogmini
+/src/backend/database.py      @ogmini
+/src/backend/routers/auth.py  @ogmini
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ogmini
